@@ -67,7 +67,7 @@ We used the publicly available [Dunnhumby - The Complete Journey](https://www.ka
 
 1. Clone the repo  
 2. Ensure all dependencies are installed (`requirements.txt`)  
-3. Open and run the notebook: [DSML_Customer_Segmentation_main_20250502.ipynb](https://github.com/richardar/DSML/blob/main/DSML_Customer_Segmentation_main_20250502.ipynb)  
+3. Open and run the notebook: [DSML_Customer_Segmentation_main_20250502.ipynb]((https://github.com/fahadmujawar/DSML/blob/main/DSML_Customer_Segmentation_main_20250502.ipynb))  
 4. Inspect exported CSVs and visualizations  
 
 ---
